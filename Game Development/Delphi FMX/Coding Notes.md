@@ -13,4 +13,4 @@ When needing to switch to different screen when clicking button
 SectionTutorial.Repaint;                         example(SectionTutorial)
 To prevent MouseEntry & MouseLeave from moving the object from its intended position.
 
-
+ShowMessage('Found Kimberella Quadrata 1!');
