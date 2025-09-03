@@ -15,6 +15,9 @@ To prevent MouseEntry & MouseLeave from moving the object from its intended posi
 ----------------------------------------------------------------------------
 ShowMessage('Found Tribrachidiun Heraldicum 3!');
 -----------------------------------------------------------------------------
+Line_Fractofusus_Misrai_2.visible:= True;
+Setting OnClick event to visible when clicked
+-----------------------------------------------------------------------------
 Counter counting down from total when items are selected:
       rocedure TFrame_Map1.Loaded;
       begin
